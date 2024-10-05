@@ -23,6 +23,7 @@ In our DEX, users can stake fiat alongside crypto and enjoy the high APYs of Web
 Our backend was built using Java to integrate with local banks, ensuring compliance without relying on real-world assets. The DEX is developed using Sui Move, with a dedicated token to reward users for their engagement. Ethereum (ETH) deployed on Sui represents cryptocurrency, while the Nigerian Naira in the DApp symbolizes fiat.
 
 ### Active Team Members and Their Functions:
+- *Team Lead*: Therock Ani[07082808327, whatsapp]
 - *Backend/Smart Contract Developer*: Therock Ani
 - *UX/UI Designer*: Chinendu
 - *Frontend Developer*: Ekenes
